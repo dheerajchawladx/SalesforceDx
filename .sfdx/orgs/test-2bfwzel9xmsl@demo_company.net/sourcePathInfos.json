@@ -1,0 +1,206 @@
+[
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504601589054,
+            "changeTime": 1504603528484,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504601589054,
+            "changeTime": 1504603528623,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504606876906,
+            "changeTime": 1504606876906,
+            "contentHash": "b4afd72db6e4c5208696ba627b7991e3fd2ac754"
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603920741,
+            "changeTime": 1504603920741,
+            "contentHash": "c06bc0dff77082655c301fdeeb1bb9487f16b0d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603920777,
+            "changeTime": 1504603920777,
+            "contentHash": "b0f53c5ca80d0f395a3191e637989e1819d63db0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponent.cmp",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponent.cmp",
+            "isDirectory": false,
+            "size": 1617,
+            "modifiedTime": 1504604264665,
+            "changeTime": 1504604264666,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponent.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1504603922980,
+            "changeTime": 1504603922980,
+            "contentHash": "c5235f31a2beb347c13c6d2d20075248ccf0dd5f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponent.css",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1504603922988,
+            "changeTime": 1504603922988,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponentController.js",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponentController.js",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1504604190126,
+            "changeTime": 1504604190126,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponentHelper.js",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1504603922985,
+            "changeTime": 1504603922985,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponentRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\aura\\FirstLightningComponent\\FirstLightningComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1504603922992,
+            "changeTime": 1504603922992,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning",
+        {
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604537568,
+            "changeTime": 1504604537568,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\flexipages\\Contact.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\flexipages\\Contact.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1975,
+            "modifiedTime": 1504606876910,
+            "changeTime": 1504606876910,
+            "contentHash": "6a1203471707c2a4e7b14478d366c81173b2f348"
+        }
+    ],
+    [
+        "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dheeraj.chawla\\SalesforceDXlightning\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504606876908,
+            "changeTime": 1504606876908,
+            "contentHash": "37fb289527e04bf3555f733773b552c29ec9922b"
+        }
+    ]
+]
